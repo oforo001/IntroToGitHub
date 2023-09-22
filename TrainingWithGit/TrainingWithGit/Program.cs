@@ -10,6 +10,12 @@ namespace TrainingWithGit
     {
         static void Main(string[] args)
         {
+
+
+            Console.WriteLine("Helooo");
+            Console.WriteLine("Helooo");
+            Console.WriteLine("Helooo");
+            Console.WriteLine("Helooo");
         }
     }
 }
